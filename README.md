@@ -15,7 +15,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-v.10.16-green.svg?style=rounded-square)](https://nodejs.org/)
 [![Redux.js](https://img.shields.io/badge/Redux.js-4.0.1-purple.svg?style=rounded-square)](https://redux.js.org/)
 
-Here is my new repository which builded with React Native Framework for making the User Interface in JavaScript syntax, see my previous repository about [ExpressJS - Simple Note App RESTful API](https://github.com/andreferi3/ExpressJS-Simple-Note-App-RESTful-API/) for the backend side and making API.
+Here is my new repository which builded with React Native Framework for making the User Interface in JavaScript syntax, see my previous repository about [NoteApp-ExpressJS-RESTfulApi](https://github.com/hajidito/NoteApp-ExpressJS-RESTfulApi) for the backend side and making API.
 
 ### What is React Native ?
 React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS and UWP by enabling developers to use React along with native platform capabilities. [[1]](https://en.wikipedia.org/wiki/React_Native)
