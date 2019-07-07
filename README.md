@@ -3,7 +3,7 @@
 <p align='center'>
   <a href='https://facebook.github.io/react-native/'>
   <img src='https://kreitech.io/blog/wp-content/uploads/2018/10/1_-NOQtyJAGQ1RNC3iVt_thA.png' />
-  <img src='https://redux.js.org/img/redux.svg' size=30/>
+  <img src='https://redux.js.org/img/redux.svg' width="300" height="300"/>
   </a>
 </p>
 
