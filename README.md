@@ -1,10 +1,9 @@
-# simpleNoteApp-ReactNative-Redux
-<h1 align='center'>React Native Note App - RESTful API</h1>
+<h1 align='center'>NoteApp-ReactNative-Redux - RESTful API</h1>
 
 <p align='center'>
   <a href='https://facebook.github.io/react-native/'>
   <img src='https://kreitech.io/blog/wp-content/uploads/2018/10/1_-NOQtyJAGQ1RNC3iVt_thA.png' />
-  <img src='https://redux.js.org/img/redux.svg' />
+  <img src='https://redux.js.org/img/redux.svg' size=30/>
   </a>
 </p>
 
