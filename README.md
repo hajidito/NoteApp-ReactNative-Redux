@@ -66,7 +66,7 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 
 <p align="center">
 <a href="https://github.com/andreferi3">
-  <img alt="Author Andre Feri" title="git author" src="https://avatars0.githubusercontent.com/u/44439185?s=400&u=471baa9e72545be97ae83b22a817e61c79d3be35&v=4" width="250" />
+  <img alt="Author Andre Feri" title="git author" src="https://avatars3.githubusercontent.com/u/50772146?s=460&v=4" width="250" />
 </a>
-<p align="center"><b><a href="https://github.com/andreferi3">Andre Feri Saputra</a></b></p>
+<p align="center"><b><a href="https://github.com/hajidito">Haji Dito M A</a></b></p>
 </p>
