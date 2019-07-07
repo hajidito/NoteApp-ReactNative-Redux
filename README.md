@@ -41,7 +41,7 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 2. react-native-cli (from npm)
 
 ## How to run the app ?
-1. Clone or download first this repository with `git clone https://github.com/andreferi3/ReactNative-Note-App.git`
+1. Clone or download first this repository with `git clone https://github.com/hajidito/NoteApp-ReactNative-Redux.git`
 2. Open the project in your favorite text editor
 3. Open your terminal or cmd and type `npm install`
 4. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a device on debugging mode or use the emulator on debugging mode too.
@@ -49,10 +49,14 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 ## Screenshot from the app
 <p align='center'>
   <span>
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651909.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651914.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651917.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651923.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150619.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150625.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150636.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150643.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150649.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150653.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-160528.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-161149.png' width=200 />
   </span>
 </p>
 
