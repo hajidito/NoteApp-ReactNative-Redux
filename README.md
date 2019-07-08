@@ -44,7 +44,10 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 1. Clone or download first this repository with `git clone https://github.com/hajidito/NoteApp-ReactNative-Redux.git`
 2. Open the project in your favorite text editor
 3. Open your terminal or cmd and type `npm install`
-4. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a device on debugging mode or use the emulator on debugging mode too.
+4. Run the backend side [NoteApp-ExpressJS-RESTfulApi](https://github.com/hajidito/NoteApp-ExpressJS-RESTfulApi).
+5. Change domain IP in all files at folder src/publics/redux/actions/ with your computer domain IP where the backend is running.
+6. Make sure your android device can access the IP domain from the backend and connect to the internet.
+7. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a android device on debugging mode or use the android emulator on debugging mode too.
 
 ## Screenshot from the app
 <p align='center'>
