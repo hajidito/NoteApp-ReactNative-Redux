@@ -67,6 +67,8 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 
 [![DEMO APP](https://img.youtube.com/vi/d7oqlKClyJo/0.jpg)](https://www.youtube.com/embed/d7oqlKClyJo)
 
+## File APK
+[NoteApp-APK](https://drive.google.com/open?id=1Sh3hg0dxGOhDGzJtww6XIRNEMKCgiHQo)
 <hr>
 
 <h3 align="center">Author</h3>
